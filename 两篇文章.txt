@@ -1,0 +1,20 @@
+这2篇长文每天浏览器打开就能看到
+
+1 编程入门指南 v1.5  作者：@萧井陌, @Badger https://zhuanlan.zhihu.com/xiao-jing-mo/19959253
+2 [译] Google Interview University 一套完整的学习手册帮助自己准备 Google 的面试  
+    https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md
+
+    原文地址：Google Interview University
+    原文作者：John Washam
+    译文出自：掘金翻译计划
+    译者：aleen42，Newton，bobmayuze，Jaeger，sqrthree
+    
+
+学习累也不累
+就这样
+
+还有一个 叫 编程随想 
+在哪里
+
+
+    
