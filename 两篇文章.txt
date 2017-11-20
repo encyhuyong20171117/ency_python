@@ -51,5 +51,23 @@ p = converter[to_format](file_name)
 跟着 https://github.com/lijin-THU/notes-python/blob/master/index.ipynb 笔记，开始学习。。。
  
 >用本地的notebook
-“[TerminalIPythonApp] WARNING | Subcommand `ipython notebook` is deprecated and will be removed in future versions.
-[TerminalIPythonApp] WARNING | You likely want to use `jupyter notebook` in the future”
+“
+[TerminalIPythonApp] WARNING | Subcommand `ipython notebook` is deprecated and will be removed in future versions.
+[TerminalIPythonApp] WARNING | You likely want to use `jupyter notebook` in the future
+”
+
+“
+PS C:\temp\s11\jupyter> jupyter notebook
+[I 14:31:13.060 NotebookApp] Serving notebooks from local directory: C:\temp\s11\jupyter
+[I 14:31:13.061 NotebookApp] 0 active kernels
+[I 14:31:13.061 NotebookApp] The Jupyter Notebook is running at:
+[I 14:31:13.062 NotebookApp] http://localhost:8888/
+[I 14:31:13.063 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 14:31:14.150 NotebookApp] 302 GET /tree (::1) 3.00ms
+[I 14:31:28.608 NotebookApp] 302 POST /login?next=%2Ftree (::1) 0.00ms
+[W 14:31:29.343 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20171120143112 (::1) 22.60ms referer=http://loc
+alhost:8888/tree
+[W 14:31:29.343 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171120143112 (::1) 0.00ms referer=htt
+p://localhost:8888/tree
+”
+截图到目录C:\temp\s11\jupyter下 login_notebook.jpg
