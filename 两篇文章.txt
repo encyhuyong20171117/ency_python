@@ -16,8 +16,9 @@
 还有一个 叫 编程随想 
 在哪里
 
-http://nbviewer.jupyter.org/github/lijin-THU/notes-python/blob/master/01-python-tools/01.01-python-overview.ipynb
-    
+1. http://nbviewer.jupyter.org/github/lijin-THU/notes-python/blob/master/01-python-tools/01.01-python-overview.ipynb
+2. https://github.com/lijin-THU/notes-python
+
 ###
 
 Python 简介
@@ -34,4 +35,19 @@ Python 3.0 于 2008 年 12 月 3 日发布，此版不完全兼容之前的 Pyth
 ###
 
 他叫 lijin-THU 在jupyter
+
+2017-11-20 Mon 
+
+昨天想把lijin-THU的*。ipnb转html，运行 https://github.com/lijin-THU/notes-python/blob/master/generate_static_files.py 不成功。问题出在 
+
+"html": nbconvert.export_html,
+"python": nbconvert.export_python
+和
+p = converter[to_format](file_name)
+ 
+是 import nbconvert 的版本吗？ 5.3.1？
+先放下。
+
+跟着 https://github.com/lijin-THU/notes-python/blob/master/index.ipynb 笔记，开始学习。。。
+ 
 
