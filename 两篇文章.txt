@@ -50,4 +50,6 @@ p = converter[to_format](file_name)
 
 跟着 https://github.com/lijin-THU/notes-python/blob/master/index.ipynb 笔记，开始学习。。。
  
-
+>用本地的notebook
+“[TerminalIPythonApp] WARNING | Subcommand `ipython notebook` is deprecated and will be removed in future versions.
+[TerminalIPythonApp] WARNING | You likely want to use `jupyter notebook` in the future”
